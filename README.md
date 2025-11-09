@@ -122,7 +122,7 @@ B站直播间主播签约状态查询器，用于直播公会快捷查询直播�
 
 ## 📄 许可证
 
-MIT License - 详见LICENSE文件
+GPL-3.0 license - 详见LICENSE文件
 
 ---
 
