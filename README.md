@@ -14,8 +14,7 @@ B站直播间主播签约状态查询器，用于直播公会快捷查询直播�
 
 ## 🎯 插件界面
 
-<center> <img width="198" height="298" alt="image" src="https://github.com/user-attachments/assets/0e7e93f2-7eb2-420a-b324-727d9bc04ef6" /> </center>
-
+<img width="201" height="292" alt="image" src="https://github.com/user-attachments/assets/cfc6af2c-a734-4532-9f0a-57976ad92c7c" />
 
 ## ✨ 主要功能
 
