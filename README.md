@@ -10,6 +10,12 @@ B站直播间主播签约状态查询器，用于直播公会快捷查询直播�
 
 
 *特性：只查询当前直播间的签约状态，避免因为批量查询导致过度使用查询次数。*
+# 界面
+<img width="1816" height="887" alt="image" src="https://github.com/user-attachments/assets/68d5ede2-8127-4070-8426-331acba03538" />
+<img width="159" height="221" alt="image" src="https://github.com/user-attachments/assets/bc8b3fa7-c232-4d94-b496-407e12d061af" />
+
+
+
 
 # 浏览器安装Tampermonkey并添加B站直播间主播签约状态查询器教程
 
