@@ -1,5 +1,16 @@
 # BiliBili-Contract-Status-Query-Tool
 B站直播间主播签约状态查询器，用于直播公会快捷查询直播间主播是否签约的插件。需登录BiliBili公会后台。
+该项目因繁星政策变化 不再维护繁星等级功能
+截止 2025.11.09 不再更新和优化，如有需求或者功能请提交issues视情况优化并更新。
+
+支持/赞助：
+
+<img width="130" height="131" alt="image" src="https://github.com/user-attachments/assets/81008896-b01d-4869-b73b-fa3a3b9e0e18" />
+
+
+
+*特性：只查询当前直播间的签约状态，避免因为批量查询导致过度使用查询次数。*
+
 # 浏览器安装Tampermonkey并添加B站直播间主播签约状态查询器教程
 
 ## 第一步：安装Tampermonkey扩展
@@ -80,4 +91,4 @@ A:
 ***
 
 
-如有任何问题，请参考Tampermonkey官方文档或提交issue获得技术支持。
+如有任何问题，请参考Tampermonkey官方文档或提交issues获得技术支持。
